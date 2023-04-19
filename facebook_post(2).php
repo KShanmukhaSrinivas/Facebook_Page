@@ -2,6 +2,7 @@
  <!DOCTYPE html>
 <html>
 <head>
+  
 <style>
     .center {
   display: block;
